@@ -1,4 +1,4 @@
-# FluidFlowTwoParallelPlates
+# Fluid Flow Between Two Parallel Plates
 **Fluid Flow Simulation using the Semi-Implicit Method for Pressure Linked Equations (SIMPLE)**
 
 The **Semi-Implicit Method for Pressure Linked Equations (SIMPLE)** is a widely utilized numerical technique for solving the Navier-Stokes equations that govern incompressible fluid flow. This method holds immense significance in various engineering applications due to its ability to accurately simulate fluid flow patterns, heat distribution, and pressure within such systems.
